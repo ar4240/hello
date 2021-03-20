@@ -2,5 +2,6 @@
 int main()
 {
     printf("Hello World");
-    printf("\n New Chnage through VSC");
+    printf("\nNew Chnage through VSC");
+    printf("\nNew Change");
 }
