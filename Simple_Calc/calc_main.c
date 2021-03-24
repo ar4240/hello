@@ -9,6 +9,6 @@ int main()
     printf("%d\n",mul(a,b));
     printf("%d\n",div(a,b));
     
-    //test_main();
+    test_main();
 	return 0;
 }
