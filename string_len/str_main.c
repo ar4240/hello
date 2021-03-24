@@ -13,6 +13,7 @@ int main()
     printf("%d\n",len2);
     printf("%d\n",sum_length(a,b));
     printf("%d\n",maxlength(len1,len2));
+    test_main();
     return 0;
 
 }
